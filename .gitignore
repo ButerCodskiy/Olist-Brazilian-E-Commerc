@@ -1,0 +1,10 @@
+data/
+
+.venv/
+__pycaсhe__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_caсhe/
+
+.env
+.DS_Store
